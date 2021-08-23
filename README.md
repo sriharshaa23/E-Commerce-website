@@ -1,2 +1,2 @@
-# Project_Grocery_Cart
+# Grocery_Cart
 Wiring up a cart for a ecommerce website
